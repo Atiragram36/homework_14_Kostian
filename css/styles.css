@@ -6,3 +6,14 @@
 	height: 50vh;
 	position: relative;
 }
+.footer-container{
+	background-image: url('../img/top-banner.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	position: relative;
+	background-size: cover;
+	height: 20vh;
+	margin-top: 50px;
+	text-align: center;
+}
+
